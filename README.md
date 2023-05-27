@@ -1,5 +1,6 @@
 ## Hello there 👋
-### My name is Gabriel
+### My name is Gabriel. I am currently in the second period of Computer Science at the Federal Technological University of Paraná. Here I will make available the codes of the classroom projects and some personal projects that I intend to develop. Enjoy!
+
 
 <div>
   <div>
