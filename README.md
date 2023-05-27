@@ -15,6 +15,5 @@
 <a href = "https://www.linkedin.com/in/gabriel-alessi-posonski-67ab2a261/"><img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/gb.alessi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:gabriel.alessip@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/mosaviczki/mosaviczki/blob/output/github-contribution-grid-snake.svg)
  
 </div>
