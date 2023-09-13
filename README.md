@@ -1,5 +1,4 @@
 ## Hi! My name is Gabriel 👋
-### I am currently in the second period of Computer Science at the Federal Technological University of Paraná. Here I will make available the codes of the classroom projects and some personal projects that I intend to develop. Enjoy!
 <div align="center">
   <a href="https://github.com/AlessiPG">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessiPG&layout=compact&langs_count=7&theme=radical"/>
