@@ -7,6 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mo-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="Mo-Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img align="center" alt="postgresql-original" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor"/>
 </div>
 
 ##
