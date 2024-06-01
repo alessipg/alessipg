@@ -4,8 +4,8 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessiPG&layout=compact&langs_count=7&theme=radical"/>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=AlessiPG&show_icons=true&theme=radical&count_private=true"/>
 </div>
+### Languages and Tools
 <div style="display: inline_block"><br>
-  ## Languages and Tools
   
   <img align="center" alt="Mo-Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" alt="Spring-boot" height="30" width="30" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
