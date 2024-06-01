@@ -1,13 +1,19 @@
-## Hi! My name is Gabriel 👋
+## Hi! i'm Gabriel👋
 <div align="center">
   <a href="https://github.com/AlessiPG">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessiPG&layout=compact&langs_count=7&theme=radical"/>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=AlessiPG&show_icons=true&theme=radical&count_private=true"/>
 </div>
+##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mo-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
+  Languagens and Tools
+  
   <img align="center" alt="Mo-Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img align="center" alt="Spring-boot" height="30" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
+  <img align="center" alt="Mo-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="postgresql-original" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor"/>
+  <img align="center" alt="intellij" height="30" width="40" src="https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000"/>
+  <img align="center" alt="vscode" height="30" width="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
 </div>
 
 ##
