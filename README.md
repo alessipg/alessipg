@@ -1,4 +1,4 @@
-## Hi! i'm Gabriel👋
+<h1>Hi! I'm Gabriel👋</h1>
 <div align="center">
   <a href="https://github.com/AlessiPG">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessiPG&layout=compact&langs_count=7&theme=radical"/>
