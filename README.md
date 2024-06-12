@@ -6,8 +6,8 @@
 </ul>  
 <div align="center">
   <a href="https://github.com/AlessiPG">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessiPG&layout=compact&langs_count=7&theme=radical"/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=AlessiPG&show_icons=true&theme=radical&count_private=true"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessipg&layout=compact&langs_count=7&theme=radical"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=alessipg&show_icons=true&theme=radical&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   
