@@ -7,7 +7,6 @@
 <div align="center">
   <a href="https://github.com/AlessiPG">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessipg&layout=compact&langs_count=7&theme=radical"/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=alessipg&show_icons=true&theme=radical&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -33,7 +32,6 @@
 
 <div> 
 <a href = "https://www.linkedin.com/in/gabriel-alessi-posonski-67ab2a261/"><img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/gb.alessi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:gabriel.alessip@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
